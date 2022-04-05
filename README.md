@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhpatel
 - 👀 I’m interested in Mobile apps development
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning android and react
 - 📫 write me at [@evoionosp](https://twitter.com/evoionosp)
 
 <!---
